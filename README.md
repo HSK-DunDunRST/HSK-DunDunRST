@@ -1,8 +1,6 @@
 ## Hi there 👋
 **My Name is HSK-DunDunRST**  
 
-**MY WebStie** is Using My Studying School Exam Data and Studying Programing Language Source.  
-[![My Website](https://img.shields.io/badge/My_Website-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](http://DunDunRST.ipdisk.co.kr)
 
 ## Use As Main ##
 <!-- 메인으로 사용하는 언어 -->
