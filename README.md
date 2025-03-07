@@ -16,10 +16,13 @@
 <!-- Use My Server -->
 ## Use My Server ##
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+<img src="https://img.shields.io/badge/TrueNAS-0095D5?style=for-the-badge&logo=TrueNAS&logoColor=white">  
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-<img src="https://img.shields.io/badge/TrueNAS-0095D5?style=for-the-badge&logo=TrueNAS&logoColor=white">
+<img src="https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=WireGuard&logoColor=white">
+<img src="https://img.shields.io/badge/AFFiNE-1E96EB?style=for-the-badge&logo=AFFiNE&logoColor=white">
+<img src="https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=Portainer&logoColor=white">
+<img src="https://img.shields.io/badge/westerndigital-995DFF?style=for-the-badge&logo=westerndigital&logoColor=white">
 <!-- Dev IDEs -->
 ## Use Dev IDEs ##
 ![Android Studio](https://img.shields.io/badge/Andoid%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
