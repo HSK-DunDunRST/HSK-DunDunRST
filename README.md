@@ -19,7 +19,7 @@
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
+<img src="https://img.shields.io/badge/TrueNAS-0095D5?style=for-the-badge&logo=TrueNAS&logoColor=white">
 <!-- Dev IDEs -->
 ## Use Dev IDEs ##
 ![Android Studio](https://img.shields.io/badge/Andoid%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
